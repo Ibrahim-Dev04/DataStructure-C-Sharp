@@ -44,6 +44,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrayList1_Examples_linq.cs" />
+    <Compile Include="Arrays1.cs" />
+    <Compile Include="Arrays2_Sorting_Searching.cs" />
+    <Compile Include="Arrays3_MultiDimentionalArrays.cs" />
+    <Compile Include="Arrays4_CopyingArrays.cs" />
+    <Compile Include="Arrays5_LINQwithArrays.cs" />
+    <Compile Include="Arrays6_AdvancedLINQ.cs" />
+    <Compile Include="Arrays7_LINQ_aggregation_Filtering.cs" />
+    <Compile Include="Arrays8_JoiningAndProjection.cs" />
+    <Compile Include="Arrays9_Joining Example2.cs" />
+    <Compile Include="BitArray1.cs" />
+    <Compile Include="BitArray2_AdvancedOperations_And_Or_Not_XOr.cs" />
     <Compile Include="Boxing and unboxing.cs" />
     <Compile Include="Dictionary1 example.cs" />
     <Compile Include="Dictionary2 TryGetValue.cs" />
@@ -63,6 +74,12 @@
     <Compile Include="HashSet8_ExceptWith.cs" />
     <Compile Include="HashSet9_SymmetricDiffernce.cs" />
     <Compile Include="HashTable1_Example.cs" />
+    <Compile Include="ICollection1_WorkingExample.cs" />
+    <Compile Include="IEnumerable1_CraeteCustomCollection.cs" />
+    <Compile Include="ILIST_WorkingExample.cs" />
+    <Compile Include="JaggedArray1.cs" />
+    <Compile Include="JaggedArray2_workingWithLINQ.cs" />
+    <Compile Include="LinkedList1.cs" />
     <Compile Include="List11 converting array to list.cs" />
     <Compile Include="list1_InsertingElements.cs" />
     <Compile Include="List2_RemoveItemsFromList.cs" />
@@ -75,8 +92,10 @@
     <Compile Include="List10 convert a list to an array.cs" />
     <Compile Include="List9 working with custom objects.cs" />
     <Compile Include="ObservableCollection1_AddingItems_respondingToChanges.cs" />
+    <Compile Include="ObservableCollection2_Example2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Queue1.cs" />
     <Compile Include="SortedDictionary1_Example.cs" />
     <Compile Include="SortedList1_Example.cs" />
     <Compile Include="SortedList2_LINQoperations.cs" />
@@ -85,6 +104,10 @@
     <Compile Include="SortedSet1_WorkingWithSortedSet.cs" />
     <Compile Include="SortedSet2_LINQqueries.cs" />
     <Compile Include="SortedSet3_Union_Intersection_Difference_Subset_SuperSet__equality.cs" />
+    <Compile Include="Stack1_Working Exaple.cs" />
+    <Compile Include="Stack2_UndoRedoExample.cs" />
+    <Compile Include="Tuples1.cs" />
+    <Compile Include="Tuples2_LINQ.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
